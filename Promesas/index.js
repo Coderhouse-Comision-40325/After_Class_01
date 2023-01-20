@@ -18,7 +18,7 @@ const dividir = (dividendo, divisor) => {
         if(divisor === 0){
             reject('No se puede dividir por 0')
         } else {
-            resolve(dividendo/divisor)
+            resolve(dividendo / divisor)
         }
     }
 )}
