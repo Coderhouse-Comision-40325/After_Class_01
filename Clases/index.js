@@ -43,7 +43,11 @@ class Auto {
     }
 }
 
-let nuevoAuto = new Auto("marron", "1.6", "GT", "1993", "3 puertas", "Pirelli", "ABC123", "Juan", "No tiene multas")
+let nuevoAuto = new Auto("marron", "1.6", "GT", "1993", "5 puertas", "Pirelli", "ABC123", "Juan", "No tiene multas")
 console.log(nuevoAuto)
 
 /* Por lo tanto podemos decir que un objeto es una instancia de clase */
+
+/* const array = []
+array.push(nuevoAuto)
+console.log(array) */
